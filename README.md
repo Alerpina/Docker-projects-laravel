@@ -56,3 +56,5 @@ Access your Laravel website at http://localhost.
 That's it! You're all set to explore your Laravel project within a Docker environment. If you face any issues, feel free to ask for help. Happy coding! 🎉
 
 ![image](https://github.com/Alerpina/Docker-projects-laravel/assets/101226446/49345a75-bc3e-43f5-8057-5c6ca8bc721b)
+![image](https://github.com/Alerpina/Docker-projects-laravel/assets/101226446/0a20b88b-80da-4b03-8f4d-399832d2fb4b)
+
