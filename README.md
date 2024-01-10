@@ -1,9 +1,9 @@
-Docker Projects in Laravel
-🚀 Welcome to my Docker projects in Laravel tutorial! 🚀
+# Docker Projects in Laravel
+# 🚀 Welcome to my Docker projects in Laravel tutorial! 🚀# 
 
 Hey there! I'm Lorraine, a 21-year-old programmer who loves working with shell scripts and Docker. Since I'm practicing my English, I decided to write this tutorial in English. Let's get started!
 
-Prerequisites
+# Prerequisites #
 Make sure you have a Laravel project ready. If not, you can clone one directly from the Laravel website and follow their documentation.
 Ensure Docker is installed on your machine.
 Getting Started
@@ -53,4 +53,4 @@ Copy code
 chmod -R 755 *
 Access your Laravel website at http://localhost.
 
-That's it! You're all set to explore your Laravel project within a Docker environment. If you face any issues, feel free to ask for help. Happy coding! 🎉
+# That's it! You're all set to explore your Laravel project within a Docker environment. If you face any issues, feel free to ask for help. Happy coding! 🎉
