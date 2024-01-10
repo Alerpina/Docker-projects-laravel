@@ -53,4 +53,4 @@ Copy code
 chmod -R 755 *
 Access your Laravel website at http://localhost.
 
-# That's it! You're all set to explore your Laravel project within a Docker environment. If you face any issues, feel free to ask for help. Happy coding! 🎉
+That's it! You're all set to explore your Laravel project within a Docker environment. If you face any issues, feel free to ask for help. Happy coding! 🎉
